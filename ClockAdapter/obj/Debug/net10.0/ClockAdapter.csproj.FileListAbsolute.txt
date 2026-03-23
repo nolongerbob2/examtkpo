@@ -1,0 +1,14 @@
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/bin/Debug/net10.0/ClockAdapter
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/bin/Debug/net10.0/ClockAdapter.deps.json
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/bin/Debug/net10.0/ClockAdapter.runtimeconfig.json
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/bin/Debug/net10.0/ClockAdapter.dll
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/bin/Debug/net10.0/ClockAdapter.pdb
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.AssemblyInfoInputs.cache
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.AssemblyInfo.cs
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.csproj.CoreCompileInputs.cache
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.dll
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/refint/ClockAdapter.dll
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.pdb
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ClockAdapter.genruntimeconfig.cache
+/Users/danielkozhemiakin/Developer/exam/ClockAdapter/obj/Debug/net10.0/ref/ClockAdapter.dll
