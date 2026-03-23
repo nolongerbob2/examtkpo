@@ -1,0 +1,15 @@
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/bin/Debug/net10.0/CarFlyweight
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/bin/Debug/net10.0/CarFlyweight.deps.json
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/bin/Debug/net10.0/CarFlyweight.runtimeconfig.json
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/bin/Debug/net10.0/CarFlyweight.dll
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/bin/Debug/net10.0/CarFlyweight.pdb
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.AssemblyInfoInputs.cache
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.AssemblyInfo.cs
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.csproj.CoreCompileInputs.cache
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.dll
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/refint/CarFlyweight.dll
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.pdb
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.genruntimeconfig.cache
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/ref/CarFlyweight.dll
+/Users/danielkozhemiakin/Developer/exam/CarFlyweight/obj/Debug/net10.0/CarFlyweight.sourcelink.json
